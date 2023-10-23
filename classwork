@@ -1,0 +1,32 @@
+<!-- 1. <ul>, <ol>, <li>
+    2. <table>, <tr>, <th>, <td>. border attribute
+    3. <style>,  color, font-size, background-color, text-align
+    4. use rgb, hex colors -->
+<html>
+    <head>
+        <title>whoah</title>
+        <body>
+            <h2 style="background-color: blue; font-size:larger"; text-align:center>yay</h2>
+            <ol>
+                <li>1</li>
+                <li>2</li>
+                <li>3</li>
+            </ol>
+            <ul>
+                <li>a</li>
+                <li>b</li>
+                <li>c</li>
+            </ul>
+            <table border="1">
+                <tr>
+                    <th> micheal</th>
+                    <th>other name</th>
+                </tr>
+                <tr>
+                    <th> alex</th>
+                    <th>hugger</th>
+                </tr>
+            </table>
+        </body>
+    </head>
+</html>
